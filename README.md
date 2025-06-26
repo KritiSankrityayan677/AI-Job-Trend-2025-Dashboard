@@ -56,5 +56,5 @@ FEATURES/HIGHLIGHTS
 
 
 DASHBOARD PREVIEW-
-
+https://github.com/KritiSankrityayan677/AI-Job-Trend-2025-Dashboard/blob/c0259ac8300c4e022e679ac56dc2867680c315a7/AI%20job%20trend%20db%20screenshot.png
 
