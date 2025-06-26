@@ -54,3 +54,7 @@ FEATURES/HIGHLIGHTS
 * Customer Feedback Insight: Use rating data to improve service or product offerings.
 * Operational Decisions: Data-driven approach to opening new outlets or resizing existing ones.
 
+
+DASHBOARD PREVIEW-
+
+
